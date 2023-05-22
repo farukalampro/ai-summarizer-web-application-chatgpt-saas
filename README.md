@@ -2,7 +2,7 @@
 
 ![OpenAI-Article-Summarizer](https://github.com/farukalampro/ai-summarizer-web-application-chatgpt-saas/assets/92469073/473a8efc-0d30-489f-a410-22fd7088575b)
 
-### Introduction
+## Introduction
 
 "Unlock Your Potential as a Solo Developer in 2023: Develop Powerful AI Software Startups! Gain Insights from a 1-Hour Tutorial on Building an Article Summarizer Application with OpenAI's GPT Model.
 
