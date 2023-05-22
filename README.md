@@ -2,10 +2,16 @@
 
 ![OpenAI-Article-Summarizer](https://github.com/farukalampro/ai-summarizer-web-application-chatgpt-saas/assets/92469073/473a8efc-0d30-489f-a410-22fd7088575b)
 
-### Python (realtime) chat app where you can authenticate, create group chats, send messages, and send attachments.
+### Introduction
 
-Our stack will be using Python, FastAPI, JavaScript, React JS and Chat Engine.
+"Unlock Your Potential as a Solo Developer in 2023: Develop Powerful AI Software Startups! Gain Insights from a 1-Hour Tutorial on Building an Article Summarizer Application with OpenAI's GPT Model.
 
-FastAPI is a modern, fast web framework for building APIs with Python 3.6+. ReactJS is a JavaScript library for building user interfaces. Chat Engine is a free toolkit for building chat apps.
+In addition to constructing this application, you'll acquire the skills to:
 
-![Vite-React](https://github.com/farukalampro/python-realtime-chat-application/assets/92469073/7ab06aba-6db0-4081-afa1-16d9ab78cb70)
+- Establish a ReactJS project with Vite
+- Design a visually appealing and responsive UI/UX, incorporating elegant glass morphism effects using Tailwind CSS
+- Execute advanced RTK query API requests with conditional triggers
+- Implement local storage to store application history
+- Manage form events and handle error scenarios
+- Enable copy to clipboard functionality
+- Craft well-structured and maintainable code"
