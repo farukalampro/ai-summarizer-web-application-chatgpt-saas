@@ -1,5 +1,7 @@
 # Create and Launch Your Own React-Based ChatGPT AI SaaS Venture
 
+![OpenAI-Article-Summarizer](https://github.com/farukalampro/ai-summarizer-web-application-chatgpt-saas/assets/92469073/473a8efc-0d30-489f-a410-22fd7088575b)
+
 ### Python (realtime) chat app where you can authenticate, create group chats, send messages, and send attachments.
 
 Our stack will be using Python, FastAPI, JavaScript, React JS and Chat Engine.
